@@ -1,5 +1,5 @@
 # 詳細について
-S3Clientの詳しいページは<a href="https://docs.aws.amazon.com/aws-sdk-php/v3/api/class-Aws.S3.S3Client.html">こちら</a>
+S3Clientの詳しいページは<a href="https://docs.aws.amazon.com/aws-sdk-php/v3/api/class-Aws.S3.S3Client.html">こちら(英語)</a>
 
 # S3のデータのやりとり
 S3では、HTTPプロトコルを利用してやりとりを行っているため、注意が必要です
